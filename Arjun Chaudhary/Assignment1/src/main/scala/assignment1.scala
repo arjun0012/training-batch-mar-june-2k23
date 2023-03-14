@@ -1,6 +1,6 @@
 import scala.io.StdIn
 
-object Main extends App {
+object assignment1 extends App {
 
   // the count function evaluates the condition for each element of array, and increments
   // the counter for all true evaluations.
